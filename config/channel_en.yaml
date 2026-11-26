@@ -1,0 +1,7 @@
+channel:
+  name: "Dark Archives"
+  language: "en"
+  niche: "Dark History & Forgotten Historical Mysteries"
+  voice: "en-US-ChristopherNeural"   # Voz masculina grave y narrativa para Edge-TTS
+  visual_style: "dark cinematic oil painting, moody chiaroscuro lighting, historical documentary style, 8k, hyper-detailed, dramatic shadows, no text"
+  target_scenes: 8                   # Para pruebas rápidas (luego subiremos a 35-45 para videos de 8-10 min)

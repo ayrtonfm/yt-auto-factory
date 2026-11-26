@@ -1,0 +1,15 @@
+# Entorno virtual y caché de Python
+.venv/
+__pycache__/
+*.py[cod]
+
+# Secretos y credenciales (NUNCA subir a GitHub)
+.env
+config/client_secrets.json
+config/youtube_token.json
+
+# Archivos pesados generados
+output/
+assets/music/*.mp3
+*.mp4
+*.zip

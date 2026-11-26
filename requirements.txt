@@ -1,0 +1,7 @@
+google-genai
+python-dotenv
+pyyaml
+edge-tts
+faster-whisper
+moviepy
+requests
